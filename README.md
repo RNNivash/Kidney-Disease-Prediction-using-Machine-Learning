@@ -91,8 +91,8 @@ To compare model performance, created a DataFrame ranking models by accuracy:
 
 ## 📬 Connect with Me
 
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/nivash-r-n/)
-- Portfolio: [Your Website](https://rnnivash.github.io/My_Port/)
+- LinkedIn: [Nivash](https://www.linkedin.com/in/nivash-r-n/)
+- Portfolio: [Nivash](https://rnnivash.github.io/My_Port/)
 - Email: [hello.nivashinsights@gmail.com](mailto:hello.nivashinsights@gmail.com)
 
 🔍 **Let's leverage data science to make healthcare better!** 🚀
